@@ -1,4 +1,4 @@
-# package container
+# https://github.com/MukhinIvan/go-container
 
 ## [`queue` (очередь)](https://github.com/MukhinIvan/go-container/tree/main/queue)
 
