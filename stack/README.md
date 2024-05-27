@@ -77,7 +77,7 @@ func (s *Stack[T]) Size() int
 ## Пример
 
 ```bash
-go install github.com/MukhinIvan/go-container/stack
+go install github.com/MukhinIvan/go-collections/stack
 ```
 
 ```go
@@ -86,7 +86,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MukhinIvan/go-container/stack"
+	"github.com/MukhinIvan/go-collections/stack"
 )
 
 func main() {
