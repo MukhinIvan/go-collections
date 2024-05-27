@@ -118,3 +118,11 @@ func main() {
 	fmt.Println(element)
 }
 ```
+
+Результат:
+
+```bash
+3
+2
+1
+```
