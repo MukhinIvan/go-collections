@@ -86,7 +86,7 @@ func (q *Queue[T]) Size() int
 ## Пример
 
 ```bash
-go install github.com/MukhinIvan/go-container/queue
+go install github.com/MukhinIvan/go-collections/queue
 ```
 
 ```go
@@ -95,7 +95,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/MukhinIvan/go-container/queue"
+	"github.com/MukhinIvan/go-collections/queue"
 )
 
 func main() {
